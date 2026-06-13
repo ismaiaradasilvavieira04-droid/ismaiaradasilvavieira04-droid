@@ -1,12 +1,30 @@
 <div align="center">
 
-<img src="banner-praia.png" width="85%">
+<img src="banner-praia.png" width="80%">
 
-### 🌊 exploring the world, one line of code at a time
+### ✨ welcome to my world ✨
 
-💻 HTML • CSS • JavaScript • React
+🌊 praia • ☀️ pôr do sol • ✈️ viagens • 💻 tecnologia • 🌸 boas energias
 
-☀️ praia • ✈️ viagens • 🌅 pôr do sol
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 
 </div>
 
+---
+
+🎯 estudante de tecnologia em constante evolução
+
+🌱 apaixonada por aprender, criar e transformar ideias em soluções
+
+💻 explorando o mundo da programação e do desenvolvimento web
+
+🌎 sonhando com novos destinos e colecionando momentos
+
+✨ acreditando que cada linha de código pode abrir novas possibilidades
+
+---
+
+> 💗 "Entre linhas de código e horizontes, escolho criar, aprender e transformar."
+> 
