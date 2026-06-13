@@ -14,11 +14,9 @@
 
 ---
 
-🎯 estudante de tecnologia em constante evolução
+### 🎯 estudante de tecnologia em constante evolução
 
 🌱 apaixonada por aprender, criar e transformar ideias em soluções
-
-💻 explorando o mundo da programação e do desenvolvimento web
 
 🌎 sonhando com novos destinos e colecionando momentos
 
@@ -26,5 +24,5 @@
 
 ---
 
-> 💗 "Entre linhas de código e horizontes, escolho criar, aprender e transformar."
+> ## 💗 "Entre linhas de código e horizontes, escolho criar, aprender e transformar."
 > 
