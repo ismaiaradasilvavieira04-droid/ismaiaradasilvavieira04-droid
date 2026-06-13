@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="praia" src="https://github.com/user-attachments/assets/2d467800-a4a5-4b6f-be7c-1befc3bfe636" />
 # 🌴 Ismaiara Vieira
 
 ☀️ Apaixonada por praias e pôr do sol
