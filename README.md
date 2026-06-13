@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌴 Ismaiara Vieira
 
-<!--
-**ismaiaradasilvavieira04-droid/ismaiaradasilvavieira04-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☀️ Apaixonada por praias e pôr do sol
 
-Here are some ideas to get you started:
+🌊 Amante da natureza
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20world&fontAlign=50&fontAlignY=40&color=0:00B4D8,100:90E0EF"/>
+
+---
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
