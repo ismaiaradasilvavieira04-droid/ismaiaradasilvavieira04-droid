@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="banner-praia.png" width="85%">
-
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=F8C8DC&text=welcome%20to%20my%20world&fontSize=28&fontColor=FFFFFF" />
 
 </div>
 
