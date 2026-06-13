@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20world&fontAlign=50&fontAlignY=40&color=0:00B4D8,100:90E0EF"/>
+<div align="center">
+
+<img src="banner-praia.png" width="85%">
+
+
+</div>
 
 
 
