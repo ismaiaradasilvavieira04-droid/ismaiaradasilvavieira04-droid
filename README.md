@@ -24,7 +24,7 @@
 
 ---
 
-> ## 💗 "Entre linhas de código e horizontes, escolho criar, aprender e transformar."
+> ## 💗💗Gosto de criar, aprender coisas novas e aproveitar os pequenos momentos.
 > 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
